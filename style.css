@@ -1,0 +1,30 @@
+.item:after {
+	position: relative;
+}
+
+.item {
+	border: 1px solid;
+	margin-bottom: 10px;
+}
+
+.name {
+	position: absolute;
+	visibility: hidden;
+}
+
+.poster {
+	height: 240px;
+	border-radius: 25px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+input {
+	margin-bottom: 25px;
+}
+
+img.link {
+	height: 50px;
+	margin-bottom: 105px;
+	border-radius: 5px;
+}
