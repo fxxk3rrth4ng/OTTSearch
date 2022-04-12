@@ -1,0 +1,30 @@
+img.link {
+	height: 50px;
+	width: 50px;
+	margin-bottom: 105px;
+	border-radius: 5px;
+}
+
+img.watcha {
+	content: url(img/svg/ott/Watcha.svg);
+}
+
+img.netflix {
+	content: url(img/svg/ott/Netflix.svg);
+}
+
+img.tving {
+	content: url(img/svg/ott/Tving.svg);
+}
+
+img.appletvp {
+	content: url(img/svg/ott/AppleTVP.svg);
+}
+
+img.coupangp {
+	content: url(img/svg/ott/CoupangPlay.svg);
+}
+
+img.laftel {
+	content: url(img/svg/ott/Laftel.svg);
+}
