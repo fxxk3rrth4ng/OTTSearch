@@ -5,6 +5,9 @@
 .item {
 	/*border: 1px solid;*/
 	margin-bottom: 10px;
+	width: 180px;
+	float: left;
+	margin-left: 20px;
 }
 
 .name {
