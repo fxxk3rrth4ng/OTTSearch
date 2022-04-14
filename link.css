@@ -33,3 +33,15 @@ img.laftel {
 img.wavve {
 	content: url(img/svg/ott/Wavve.svg);
 }
+
+img.naver {
+	content: url(img/svg/ott/Naver.svg);
+}
+
+img.seezn {
+	content: url(img/svg/ott/Seezn.svg);
+}
+
+img.amazon {
+	content: url(img/svg/ott/Amazon.svg);
+}
